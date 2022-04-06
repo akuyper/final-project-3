@@ -1,6 +1,6 @@
 # Unprocessed Data
 
-Dataset or datasets in their orginial format prior to any cleaning or processing. 
+Dataset or datasets in their original format prior to any cleaning or processing. 
 
 # Citations
 
